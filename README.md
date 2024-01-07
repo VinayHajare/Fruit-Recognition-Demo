@@ -1,2 +1,2 @@
 # Fruit Recognition Demo
-[Try now](https://fruitrecognition.vinayhajare.engineer)
+[Try now](https://www.fruitrecognition.vinayhajare.engineer)
